@@ -1,7 +1,7 @@
-local p = require("tokyodark.palette")
-local utils = require("tokyodark.utils")
-local config = require("tokyodark.config")
-local terminal = require("tokyodark.terminal")
+local p = require("heatherfield.palette")
+local utils = require("heatherfield.utils")
+local config = require("heatherfield.config")
+local terminal = require("heatherfield.terminal")
 
 local M = {}
 

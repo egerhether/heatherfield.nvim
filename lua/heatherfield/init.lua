@@ -8,9 +8,9 @@ function M.colorscheme()
     vim.o.background = "dark"
     vim.o.termguicolors = true
     vim.g.colors_name = "tokyodark"
-    require("tokyodark.highlights").setup()
+    require("heatherfield.highlights").setup()
 end
 
-M.setup = require("tokyodark.config").setup
+M.setup = require("heatherfield.config").setup
 
 return M
