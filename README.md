@@ -4,7 +4,7 @@
 
 A dark colourblind-friendly Neovim theme written in lua. For those who enjoy the purples, blues and pinks. 
 
-:we#### Features
+#### Features
 
 Supports plugins such as telescope and NvimTree. 
 
