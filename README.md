@@ -2,7 +2,7 @@
 
 #### About
 
-A dark colour-blind friendly neovim theme written in lua. For those who enjoy the purples, blues and pinks. 
+A dark colourblind-friendly Neovim theme written in lua. For those who enjoy the purples, blues and pinks. 
 
 :we#### Features
 
