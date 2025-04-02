@@ -6,7 +6,7 @@ A dark colourblind-friendly Neovim theme written in lua. For those who enjoy the
 
 #### Features
 
-Supports plugins such as telescope and NvimTree. 
+Supports plugins such as telescope and NvimTree. Works best with LSP Semantic Tokens.
 
 #### Installation 
 
