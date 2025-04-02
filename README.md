@@ -2,7 +2,7 @@
 
 #### About
 
-A dark colourblind-friendly Neovim theme written in lua. For those who enjoy the purples, blues and pinks. 
+A dark colourblind-friendly Neovim theme written in lua. For those who enjoy the purples, blues and pinks. Code skeleton taken from [tokyodark.nvim](https://github.com/tiagovla/tokyodark.nvim) 
 
 #### Features
 
