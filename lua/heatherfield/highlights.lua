@@ -141,7 +141,7 @@ M.highlights = {
     Title = { fg = p.yellow },
     Tag = { fg = p.orange },
     Delimiter = { fg = p.fg },
-    Comment = { fg = p.purple3 } + styles.comments,
+    Comment = { fg = p.purple4 } + styles.comments,
     SpecialComment = { fg = p.bg4 } + styles.comments,
     Todo = { fg = p.blue } + styles.comments,
 
