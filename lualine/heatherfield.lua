@@ -26,7 +26,8 @@ local colors = {
     blue = "#7199EE",
     cyan = "#07C2C5",
     purple = "#9962A7",
-    purple2 = "#B893C2",
+    purple2 = "#C6A7CD",
+    purple3 = "#452A4B",
     grey = "#4A5057",
     pink = "#DD225A",
     none = "NONE",
@@ -35,37 +36,37 @@ local colors = {
 return {
     normal = {
         a = { bg = colors.blue, fg = colors.bg0, gui = "bold" },
-        b = { bg = colors.purple, fg = colors.bg0 },
+        b = { bg = colors.purple3, fg = colors.fg },
         c = { bg = colors.bg0, fg = colors.purple },
     },
     insert = {
         a = { bg = colors.red, fg = colors.bg0, gui = "bold" },
-        b = { bg = colors.purple, fg = colors.bg0 },
+        b = { bg = colors.purple3, fg = colors.fg },
         c = { bg = colors.bg0, fg = colors.purple },
     },
     visual = {
         a = { bg = colors.green, fg = colors.bg0, gui = "bold" },
-        b = { bg = colors.purple, fg = colors.bg0 },
+        b = { bg = colors.purple3, fg = colors.fg },
         c = { bg = colors.bg0, fg = colors.purple },
     },
     replace = {
         a = { bg = colors.pink, fg = colors.bg0, gui = "bold" },
-        b = { bg = colors.purple, fg = colors.bg0 },
+        b = { bg = colors.purple3, fg = colors.fg },
         c = { bg = colors.bg0, fg = colors.purple },
     },
     command = {
         a = { bg = colors.cyan, fg = colors.bg0, gui = "bold" },
-        b = { bg = colors.purple, fg = colors.bg0 },
+        b = { bg = colors.purple3, fg = colors.fg },
         c = { bg = colors.bg0, fg = colors.purple },
     },
     terminal = {
         a = { bg = colors.purple, fg = colors.bg0, gui = "bold" },
-        b = { bg = colors.purple, fg = colors.bg0 },
+        b = { bg = colors.purple3, fg = colors.fg },
         c = { bg = colors.bg0, fg = colors.purple },
     },
     inactive = {
         a = { bg = colors.bg1, fg = colors.grey1, gui = "bold" },
-        b = { bg = colors.purple, fg = colors.bg0 },
+        b = { bg = colors.purple3, fg = colors.fg },
         c = { bg = colors.bg0, fg = colors.purple },
     },
 }

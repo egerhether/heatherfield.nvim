@@ -141,7 +141,7 @@ M.highlights = {
     Title = { fg = p.yellow },
     Tag = { fg = p.orange },
     Delimiter = { fg = p.fg },
-    Comment = { fg = p.bg4 } + styles.comments,
+    Comment = { fg = p.purple3 } + styles.comments,
     SpecialComment = { fg = p.bg4 } + styles.comments,
     Todo = { fg = p.blue } + styles.comments,
 
@@ -195,7 +195,7 @@ M.highlights = {
 
     -- comments
     commentTSDanger = { fg = p.red } + styles.comments,
-    commentTSNote = { fg = p.blue } + styles.comments,
+    commentTSNote = { fg = p.purple3 } + styles.comments,
     commentTSWarning = { fg = p.yellow } + styles.comments,
 
     -- python
@@ -391,9 +391,9 @@ M.highlights = {
     GitSignsAdd = { fg = p.green },
     GitSignsAddLn = { fg = p.green },
     GitSignsAddNr = { fg = p.green },
-    GitSignsChange = { fg = p.bg0 },
-    GitSignsChangeLn = { fg = p.bg0 },
-    GitSignsChangeNr = { fg = p.bg0 },
+    GitSignsChange = { fg = p.fg },
+    GitSignsChangeLn = { fg = p.fg },
+    GitSignsChangeNr = { fg = p.fg },
     GitSignsDelete = { fg = p.red },
     GitSignsDeleteLn = { fg = p.red },
     GitSignsDeleteNr = { fg = p.red },
