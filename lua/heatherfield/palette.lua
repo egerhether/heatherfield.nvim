@@ -3,7 +3,7 @@ local utils = require("heatherfield.utils")
 
 local palette = {
     black = "#06080A",
-    bg0 = "#1A1B26",
+    bg0 = "#191724",
     bg1 = "#1A1B2A",
     bg2 = "#B44B69",
     bg3 = "#353945",
