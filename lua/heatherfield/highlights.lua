@@ -215,6 +215,7 @@ M.highlights = {
     ["@constant.macro"] = { link = "Define", default = true },
     ["@constructor"] = { link = "Special", default = true },
     ["@debug"] = { link = "Debug", default = true },
+    ["@structure"] = { link = "Type", default = true },
     ["@define"] = { link = "Define", default = true },
     ["@defaultLibrary"] = { link = "Special", default = true },
     ["@error"] = { link = "Error", default = true },
